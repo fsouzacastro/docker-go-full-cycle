@@ -3,7 +3,7 @@
 
 # Build do Projeto
 ```
-docker build -t <seu-user>/docker-go-full-cycle .
+docker build -t docker-go-full-cycle/docker-go-full-cycle .
 ```
 
 # Pull do Docker Hub
