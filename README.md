@@ -20,5 +20,3 @@ docker pull fescastro/docker-go-full-cycle
 ```
 docker run --rm fescastro/docker-go-full-cycle
 ```
-
-teste
