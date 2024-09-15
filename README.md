@@ -19,5 +19,3 @@ docker pull fescastro/docker-go-full-cycle
 # Rodar o container
 ```
 docker run --rm fescastro/docker-go-full-cycle
-```
-Commit de teste para modulo de git
